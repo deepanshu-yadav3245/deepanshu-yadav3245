@@ -1,4 +1,4 @@
-
+![](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 
 <h1 align="center">Hi 👋, I'm Deepanhsu Yadav</h1>
 <h3 align="center">"Engineering: It's not just a degree, it's a mindset.🚀</h3>
@@ -16,7 +16,7 @@
 
 -  DevOps: Tools and practices for efficient deployment and scalability.**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/deepanshu-yadav-372624302/](https://www.linkedin.com/in/deepanshu-yadav-372624302/)
+- 👨‍💻 All of my projects are available at (https://github.com/deepanshu-yadav3245)
 
 - ⚡ Fun fact **"I love finding creative solutions to problems, whether it’s in code or in life."**
 
