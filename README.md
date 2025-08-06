@@ -20,6 +20,8 @@
 
 - ⚡ Fun fact **"I love finding creative solutions to problems, whether it’s in code or in life."**
 
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-yadav3245&theme=dark&hide_border=true&stroke=f53b3b"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/deepanshu-yadav-372624302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshu-yadav-372624302" height="30" width="40" /></a>
