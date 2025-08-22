@@ -44,4 +44,3 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepanshu-yadav3245&show_icons=true&locale=en" alt="deepanshu-yadav3245" /></p> -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepanshu-yadav3245&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-yadav3245&" alt="deepanshu-yadav3245" /></p>
